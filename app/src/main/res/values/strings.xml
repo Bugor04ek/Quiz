@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="start">Начать</string>
+    <string name="back">Назад</string>
+    <string name="level">Уровень: </string>
+    <string name="level1">Уровень 1</string>
+    <string name="level2">Уровень 2</string>
+    <string name="todo">TODO</string>
+    <string name="levelone">Выбери цифру, которая больше. \nВопросы могут повторяться, пока вы не наберете 20 очков.</string>
+    <string name="leveloneEnd">"Поздравляем, уровень пройден!"</string>
+    <string name="textcontinue">Продолжить</string>
+</resources>
